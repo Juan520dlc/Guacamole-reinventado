@@ -6,7 +6,7 @@ PUes todos los temas en si me gustaron pero el que más me gusto fue **GitHub** 
 <h1> Quiero desafiar al admin </h1>
 <h2> Es broma, pero si quiere no es broma :v </h2>
 ```
-@Kanek08
+@Github/Kanek08
 
 ### Listas anidadas
 1. Esta es un alista
